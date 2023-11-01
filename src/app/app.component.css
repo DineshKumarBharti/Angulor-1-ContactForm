@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    margin: 10px;;
+    background: #867a86;
+    margin-left: 100px;  
+}
+.container h1{
+    text-align: center;
+    background-color: crimson;
+    padding:10px 50px;
+}
+.container label{
+    font-size: larger;
+    color: #fff;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+.container .form-check{
+    padding-left: 50px;
+}
+.container .btn{
+    padding: 10px;
+}
